@@ -22,7 +22,7 @@
         var name = "https://wenku.baidu.com/view/be81c2cc9fc3d5bbfd0a79563c1ec5da50e2d6df.html";
         document.getElementById("test").setAttribute("href",name);
         document.getElementById("test").innerHTML = "四年级点我";
-        document.getElementById("test").style.color = "springgreen";
+        document.getElementById("test").style.color = "lightblue";
     }
 
 
